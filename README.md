@@ -1,4 +1,4 @@
-# Paweł-Lenartowicz2062WSB-Lenartowicz2062WSB
+# Paweł-Lenartowicz2062WSB
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus magna velit, non convallis purus dapibus sed. Nam maximus metus nibh, sed faucibus urna vulputate id. Nunc vestibulum, arcu sed laoreet sagittis, mauris libero aliquam nisi, vel dignissim lacus libero vitae elit. In ac ligula fermentum, ultricies tellus in, pellentesque velit. Mauris cursus enim tortor, quis lacinia neque congue a. Cras dolor elit, consectetur eget tempus quis, pulvinar vitae leo. Etiam tempus quam ac tellus cursus, sit amet tristique velit mollis. Vivamus accumsan mi id libero euismod, eget aliquet augue suscipit. Integer sit amet sem et nibh rutrum vulputate. Nullam quis tincidunt libero. Aenean pretium turpis eu nunc fringilla, id sagittis justo egestas.
 
